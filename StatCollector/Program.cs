@@ -12,13 +12,7 @@ namespace StatCollector
     {
         static void Main(string[] args)
         {
-
-            //string typeobject = "StatCollector.NacreRow";
-            //dynamic type = Type.GetType(typeobject);
-
-            //var factoryObject = new StatCollectorFactory();
-            //var instanceObj = factoryObject.Create<dynamic>();
-            //statCollector1.CollectStats(nacreList);         
+                         
 
             var nacreFillList = new Program().FillNacreObject();      
             InvokeMethod1(nacreFillList);
