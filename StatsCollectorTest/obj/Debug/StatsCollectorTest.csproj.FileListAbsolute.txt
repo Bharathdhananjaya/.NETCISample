@@ -1,0 +1,13 @@
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\Default.srprofile
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\StatsCollectorTest.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\StatsCollectorTest.pdb
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\StatCollector.exe
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\StatsCollector.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\nunit.framework.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\StatCollector.pdb
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\StatsCollector.pdb
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\bin\Debug\nunit.framework.xml
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\obj\Debug\StatsCollectorTest.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\obj\Debug\StatsCollectorTest.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\obj\Debug\StatsCollectorTest.pdb
