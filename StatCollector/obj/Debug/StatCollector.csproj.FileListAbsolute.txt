@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\StatCollector.exe.config
+c:\users\user\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\StatCollector.exe
+c:\users\user\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\StatCollector.pdb
+c:\users\user\documents\visual studio 2013\Projects\StatCollector\StatCollector\obj\Debug\StatCollector.exe
+c:\users\user\documents\visual studio 2013\Projects\StatCollector\StatCollector\obj\Debug\StatCollector.pdb
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\nunit.framework.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\nunit.framework.xml
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\Default.srprofile
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatCollector\obj\Debug\StatCollector.csprojResolveAssemblyReference.cache
