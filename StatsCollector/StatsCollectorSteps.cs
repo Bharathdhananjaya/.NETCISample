@@ -3,6 +3,9 @@ using TechTalk.SpecFlow;
 
 namespace StatCollector
 {
+ 
+    // Dont check in this to Master Branch.
+    
     [Binding]
     public class StatsCollectorSteps
     {
