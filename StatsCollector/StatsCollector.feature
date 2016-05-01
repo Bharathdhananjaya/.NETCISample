@@ -4,7 +4,7 @@
 	Should calculate the Write Indicators
 	And Display the difference
 
-	# committed in branch and adding back.
+	
 
 @mytag
 Scenario: Calculate The StatCollector Indicators for Nacre Source:
