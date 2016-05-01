@@ -8,6 +8,6 @@ namespace StatCollector
 {
     public interface IStatCollector<T>
     {       
-        void CollectStats(List<T> nonTradeCollection);
+        void CollectStats(List<T> nonTradeCollection, int dataType);
     }
 }
