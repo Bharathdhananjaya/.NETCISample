@@ -6,8 +6,9 @@
 
 # checkin to master as well.	
 # May Brannch commit.
+# Master Branch Commit
 
-# Another May Branch COMMIT
+
 @mytag
 Scenario: Calculate The StatCollector Indicators for Nacre Source:
 	Given I have the Following Nacre Row
