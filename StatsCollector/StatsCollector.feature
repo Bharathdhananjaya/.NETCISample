@@ -24,5 +24,5 @@ Scenario: Calculate The StatCollector Indicators for Nacre Source:
 	| COUNT_NULL_Name| 0  |
 
 
-	#Master Commit
+	# Delete the MASTER COMMIT
 	
