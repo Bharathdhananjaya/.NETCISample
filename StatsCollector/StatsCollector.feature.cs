@@ -72,6 +72,8 @@ namespace StatsCollector
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Calculate The StatCollector Indicators for Nacre Source:", new string[] {
                         "mytag"});
 #line 14
+#line 13
+#line 12
 this.ScenarioSetup(scenarioInfo);
 #line hidden
             TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
