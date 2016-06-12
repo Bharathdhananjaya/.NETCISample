@@ -23,4 +23,6 @@ Scenario: Calculate The StatCollector Indicators for Nacre Source:
 	| COUNT_DISTINCT_DealId | 1  |
 	| COUNT_NULL_Name| 0  |
 
+
+	#Master Commit
 	

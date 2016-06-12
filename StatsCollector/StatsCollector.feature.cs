@@ -71,8 +71,7 @@ namespace StatsCollector
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Calculate The StatCollector Indicators for Nacre Source:", new string[] {
                         "mytag"});
-#line 13
-#line 12
+#line 14
 this.ScenarioSetup(scenarioInfo);
 #line hidden
             TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
@@ -90,9 +89,9 @@ this.ScenarioSetup(scenarioInfo);
                         "Kate",
                         "21",
                         "1"});
-#line 14
+#line 15
  testRunner.Given("I have the Following Nacre Row", ((string)(null)), table1, "Given ");
-#line 18
+#line 19
  testRunner.When("I Invoke the Stats Collector", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
             TechTalk.SpecFlow.Table table2 = new TechTalk.SpecFlow.Table(new string[] {
@@ -107,7 +106,7 @@ this.ScenarioSetup(scenarioInfo);
             table2.AddRow(new string[] {
                         "COUNT_NULL_Name",
                         "0"});
-#line 19
+#line 20
  testRunner.Then("the result should be as Below", ((string)(null)), table2, "Then ");
 #line hidden
             this.ScenarioCleanup();
