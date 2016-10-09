@@ -54,7 +54,12 @@ namespace StatCollector
 
             var assignTheList = statsEntity;
         }
-        
+
+
+        public void CollectStats(List<NacreRow> nonTradeCollection, int dataType)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 
