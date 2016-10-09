@@ -1,12 +1,14 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace UnitTest
 {
-    [TestClass]
+    
     public class UnitTest1
     {
-        [TestMethod]
+
+        [Test]
         public void TestMethod1()
         {
             Assert.IsTrue(true);
