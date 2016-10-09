@@ -11,3 +11,16 @@ C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollector
 C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\obj\Debug\StatsCollectorTest.csprojResolveAssemblyReference.cache
 C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\obj\Debug\StatsCollectorTest.dll
 C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollectorTest\obj\Debug\StatsCollectorTest.pdb
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\Default.srprofile
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\StatsCollectorTest.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\StatsCollectorTest.pdb
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\nunit.framework.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\StatCollector.exe
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\StatsCollector.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\TechTalk.SpecFlow.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\StatCollector.pdb
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\StatsCollector.pdb
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\bin\Debug\nunit.framework.xml
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\obj\Debug\StatsCollectorTest.csprojResolveAssemblyReference.cache
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\obj\Debug\StatsCollectorTest.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollectorTest\obj\Debug\StatsCollectorTest.pdb

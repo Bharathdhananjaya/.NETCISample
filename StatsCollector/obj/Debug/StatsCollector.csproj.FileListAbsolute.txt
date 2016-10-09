@@ -7,3 +7,12 @@ C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollector
 C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollector\bin\Debug\nunit.framework.xml
 C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollector\obj\Debug\StatsCollector.dll
 C:\Users\User\documents\visual studio 2013\Projects\StatCollector\StatsCollector\obj\Debug\StatsCollector.pdb
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\bin\Debug\StatsCollector.dll.config
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\bin\Debug\StatsCollector.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\bin\Debug\StatsCollector.pdb
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\bin\Debug\nunit.framework.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\bin\Debug\TechTalk.SpecFlow.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\bin\Debug\nunit.framework.xml
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\obj\Debug\StatsCollector.csprojResolveAssemblyReference.cache
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\obj\Debug\StatsCollector.dll
+G:\TeamcityAPIIntegration\.NETCISample\StatsCollector\obj\Debug\StatsCollector.pdb

@@ -1,0 +1,7 @@
+G:\TeamcityAPIIntegration\.NETCISample\UnitTest\bin\Debug\UnitTest.dll
+G:\TeamcityAPIIntegration\.NETCISample\UnitTest\bin\Debug\UnitTest.pdb
+G:\TeamcityAPIIntegration\.NETCISample\UnitTest\bin\Debug\nunit.framework.dll
+G:\TeamcityAPIIntegration\.NETCISample\UnitTest\bin\Debug\nunit.framework.xml
+G:\TeamcityAPIIntegration\.NETCISample\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+G:\TeamcityAPIIntegration\.NETCISample\UnitTest\obj\Debug\UnitTest.dll
+G:\TeamcityAPIIntegration\.NETCISample\UnitTest\obj\Debug\UnitTest.pdb
