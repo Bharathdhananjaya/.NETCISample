@@ -16,6 +16,11 @@ namespace StatCollector
         {
             Console.WriteLine(" Trade Collector");
         }
+
+        public void CollectStats(List<TradeRow> nonTradeCollection, int dataType)
+        {
+            throw new NotImplementedException();
+        }
   }
 
     class TradeRow

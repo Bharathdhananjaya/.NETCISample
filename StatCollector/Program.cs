@@ -59,7 +59,7 @@ namespace StatCollector
         {
             var factoryObject = new StatCollectorFactory();
             IStatCollector<NacreRow> statCollector1 = factoryObject.Create<NacreRow>();
-            statCollector1.CollectStats(nacreList);
+            //statCollector1.CollectStats(nacreList);
             
 
         }
